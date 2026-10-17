@@ -47,7 +47,7 @@
       # Validate student is not already signed up
       ```
 
-      <img width="700" alt="Copilot shadow text suggestion in the editor" src="../images/shadow-text.gif" />
+      <img width="700" alt="Copilot shadow text suggestion in the editor" src="https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/shadow-text.gif?raw=true" />
 
    1. 按下 `Tab` 键接受建议，生成代码。
 
@@ -92,7 +92,7 @@ Inline Chat：适合针对当前代码块的快速修改
 1. 打开 `src/app.py` 文件，在顶部（大约第 23 行）找到 activities 变量
 1. 选中整个 `activities` 字典，这样可以为 Copilot 提供更充分的上下文信息。
    
-   <img width="700" alt="Highlighted activities dictionary before opening inline chat" src="../images/activities-dict-highlighted.png" />
+   <img width="700" alt="Highlighted activities dictionary before opening inline chat" src="https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/activities-dict-highlighted.png?raw=true" />
 
 1. 使用快捷键打开行内对话，Windows：Ctrl + I，Mac：Cmd + I
 
@@ -187,7 +187,7 @@ Inline Chat：适合针对当前代码块的快速修改
 
 1. 找到 `app.py`，点击 `+` 将修改加入暂存区
 
-   ![image](../images/staging-changes-icon.png)
+   ![image](https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/staging-changes-icon.png?raw=true)
 
 1. 不要手动输入提交信息，而是点击消息框右边的 ✨ **Generate Commit Message** 按钮，让 Copilot 自动生成说明。
 

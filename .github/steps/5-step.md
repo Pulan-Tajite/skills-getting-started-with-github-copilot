@@ -32,11 +32,11 @@ Copilot 擅长发现常见的小问题，并给出简单的修改建议。不过
 
 3. （可选）在 PR 描述编辑栏点击 **Copilot 图标**，选择 **Summary** 操作。稍等片刻，Copilot 会自动生成一段基于代码更改的摘要说明。📝
 
-   <img alt="Copilot summarize button" width="450px" src="../images/copilot-summarize-button.png">
+   <img alt="Copilot summarize button" width="450px" src="https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-summarize-button.png?raw=true">
 
 4. （可选）在右侧信息面板顶部的 **Reviewers** 区域，点击 **Copilot 图标旁的 Request 按钮**。等待片刻，Copilot 会自动在你的 PR 下留下审查意见。
 
-   <img alt="Copilot review button" width="300px" src="../images/copilot-review-button.png">
+   <img alt="Copilot review button" width="300px" src="https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-review-button.png?raw=true">
 
    > 💡 **提示：** 你可以在日志中看到“已请求 Copilot 审查”的记录。
 

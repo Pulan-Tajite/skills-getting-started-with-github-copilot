@@ -36,7 +36,7 @@ Copilot [Plan Agent](https://code.visualstudio.com/docs/copilot/agents/planning)
 
 1. 打开 **Copilot Chat** 面板，将模式切换为 **Plan Agent（规划模式）**。
 
-   <img width="350" alt="image" src="../images/plan-mode-dropdown.png" />
+   <img width="350" alt="image" src="https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/plan-mode-dropdown.png?raw=true" />
 
 
 1. 我们先提出初始需求，让 Copilot 帮我们补充细节：
@@ -70,7 +70,7 @@ Copilot [Plan Agent](https://code.visualstudio.com/docs/copilot/agents/planning)
 
 1. 当你对方案满意后，点击 **Start implementation** 开始真正干活。
 
-   <img width="350" alt="image" src="../images/plan-mode-start-implementation.png" />
+   <img width="350" alt="image" src="https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/plan-mode-start-implementation.png?raw=true" />
 
    请注意，点击该按钮后，模式已从 **Plan** 切换到了 **Agent Mode**。从此刻起，Copilot 即可像往常一样编辑您的代码库。
 

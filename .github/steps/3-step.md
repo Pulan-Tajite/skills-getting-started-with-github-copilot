@@ -42,7 +42,7 @@ Agent Mode 会借助各种“工具”来完成任务，例如：
 
 1. 在 Copilot Chat 窗口底部，将模式切换为 **Agent** Mode
 
-   <img width="350" alt="image" src="../images/agent-mode-dropdown.png" />
+   <img width="350" alt="image" src="https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/agent-mode-dropdown.png?raw=true" />
 
 1. 打开以下与网页相关的文件，并拖入聊天窗口作为上下文：
 
@@ -52,7 +52,7 @@ Agent Mode 会借助各种“工具”来完成任务，例如：
 
    > 🪧 **注意:** 添加文件上下文不是必须的，如果你跳过这一步，Copilot 的 Agent Mode 仍然可以通过 `#codebase` 等工具自动搜索相关文件。不过，手动指定相关文件可以帮助 Copilot 更准确理解你的意图（尤其在大型项目中非常有用）
 
-   <img width="400" alt="image showing files added to context" src="../images/files-added-to-context.png" />
+   <img width="400" alt="image showing files added to context" src="https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/files-added-to-context.png?raw=true" />
 
    > 💡 **提示:** 也可以通过 **Add Context...** 添加其他类型的上下文，例如 GitHub Issue 或终端输出。
 
@@ -70,14 +70,14 @@ Agent Mode 会借助各种“工具”来完成任务，例如：
 
    使用 **Keep** 按钮接受，或逐条查看后再决定是否保留
 
-      <img width="900" alt="buttons to keep or discard changes" src="../images/review-changes-buttons.png" />
+      <img width="900" alt="buttons to keep or discard changes" src="https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/review-changes-buttons.png?raw=true" />
 
 
 1. 在确认修改前，请先运行网站进行验证： 
 
    查看活动卡片是否显示了报名人员。必要时刷新页面或重启应用
 
-   <img width="350" alt="Activity card with participant info" src="../images/activity-card-with-participants.png" />
+   <img width="350" alt="Activity card with participant info" src="https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/activity-card-with-participants.png?raw=true" />
 
    > 🪧 **注意:** 不同人生成的界面可能略有差异，这是正常的
 
@@ -103,11 +103,11 @@ Agent Mode 会借助各种“工具”来完成任务，例如：
 
 1. 确认当前仍处于 **Agent** mode.
 
-   <img width="250" alt="agent mode" src="../images/agent-mode-dropdown.png" />
+   <img width="250" alt="agent mode" src="https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/agent-mode-dropdown.png?raw=true" />
 
 1. 点击 **Tools** 图标，查看 Copilot 当前可用工具
 
-   <img width="250"  alt="tools icon" src="../images/tools-icon.png" />
+   <img width="250"  alt="tools icon" src="https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/tools-icon.png?raw=true" />
 
 1. 输入提示词，让 Copilot 添加“删除参与者”的功能。
 

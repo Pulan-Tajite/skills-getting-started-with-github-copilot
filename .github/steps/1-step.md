@@ -4,11 +4,11 @@
 
 在本课程中，你将和 GitHub Copilot 一起动手参与一个真实项目 —— 帮助优化 Mergington 高中的学生课外活动报名网站。🎻 ⚽️ ♟️
 
-<img width="600" alt="Mergington High School 网站截图" src="../images/mergington-high-school-webapp.png" />  
+<img width="600" alt="Mergington High School 网站截图" src="https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/mergington-high-school-webapp.png?raw=true" />  
 
 ### 📖 快速了解 GitHub Copilot
 
-<img width="150" align="right" alt="copilot logo" src="../images/copilot-logo.png" />
+<img width="150" align="right" alt="copilot logo" src="https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-logo.png?raw=true" />
 
 GitHub Copilot 是一款 AI 编程助手，可以帮助你更快、更高效地编写代码，让你能把精力集中在问题分析和协作上。
 
@@ -48,19 +48,19 @@ GitHub Copilot 是一款 AI 编程助手，可以帮助你更快、更高效地�
 
 4. 打开左边栏的扩展（Extensions）菜单，确认 `GitHub Copilot` 和 `Python` 插件均已安装并启用。
 
-   <img width="350" alt="copilot extension for VS Code" src="../images/copilot-extension-vscode.png" />
+   <img width="350" alt="copilot extension for VS Code" src="https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-extension-vscode.png?raw=true" />
 
-   <img width="350" alt="python extension for VS Code" src="../images/python-extension-vscode.png" />
+   <img width="350" alt="python extension for VS Code" src="https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/python-extension-vscode.png?raw=true" />
 
 5. 点击 VS Code 顶部的 **Toggle Chat 图标**，打开 Copilot 聊天侧边栏。
 
-   <img width="150" alt="image" src="../images/toggle-chat-icon.png" />
+   <img width="150" alt="image" src="https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/toggle-chat-icon.png?raw=true" />
 
    > 🪧 **Note:** If this is your first time using GitHub Copilot, you will need to accept the usage terms to continue.
 
 6. 将模式切换为 **Ask Mode（提问模式）**。
 
-   <img width="350" alt="screenshot showing Ask Mode selection in Copilot Chat" src="../images/ask-mode-selection.png" />
+   <img width="350" alt="screenshot showing Ask Mode selection in Copilot Chat" src="https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/ask-mode-selection.png?raw=true" />
 
 7. 输入以下提示词，让 Copilot 介绍项目
 
@@ -75,11 +75,11 @@ GitHub Copilot 是一款 AI 编程助手，可以帮助你更快、更高效地�
 
 8. 了解完项目后，让我们实际运行一下！点击左侧边栏的 **Run and Debug** 菜单，然后按下 **Start Debugging** 图标。
 
-   <img width="300" alt="image" src="../images/run-and-debug-tab.png" />
+   <img width="300" alt="image" src="https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/run-and-debug-tab.png?raw=true" />
 
 9. 为了在浏览器中查看网页，我们需要找到访问地址和端口。在底部面板中找到 **Ports** tab页。 找到端口号 `8000`，将鼠标悬停在其链接上，点击 **Open in browser（在浏览器中打开）**。
 
-   ![image](../images/open-in-browser-icon.png)
+   ![image](https://github.com/Pulan-Tajite/skills-getting-started-with-github-copilot/blob/main/.github/images/open-in-browser-icon.png?raw=true)
 
 ### :keyboard: 实操环节: 使用 Copilot 执行 git 命令 🙋
 
